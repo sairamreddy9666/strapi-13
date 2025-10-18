@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@unleash/proxy-client-react": "^5.0.1",
+    "unleash-proxy-client": "^3.7.8"
+  }
+}
